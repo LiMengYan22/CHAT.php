@@ -121,8 +121,6 @@ echo'
 </div>
 </div>
 </div>
-</div>
-</div>
 <!-- //**FORMULARIO ENVIAR** -->
 
 
